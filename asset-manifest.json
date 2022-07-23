@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/bookshopgithub/static/css/main.30dbb5ea.css",
-    "main.js": "/bookshopgithub/static/js/main.9a7a6247.js",
+    "main.js": "/bookshopgithub/static/js/main.c37a6b58.js",
+    "static/media/img3.jpg": "/bookshopgithub/static/media/img3.3f4420ece2be335d02ed.jpg",
     "index.html": "/bookshopgithub/index.html",
     "main.30dbb5ea.css.map": "/bookshopgithub/static/css/main.30dbb5ea.css.map",
-    "main.9a7a6247.js.map": "/bookshopgithub/static/js/main.9a7a6247.js.map"
+    "main.c37a6b58.js.map": "/bookshopgithub/static/js/main.c37a6b58.js.map"
   },
   "entrypoints": [
     "static/css/main.30dbb5ea.css",
-    "static/js/main.9a7a6247.js"
+    "static/js/main.c37a6b58.js"
   ]
 }
