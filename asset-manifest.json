@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookshopgithub/static/css/main.30dbb5ea.css",
+    "main.js": "/bookshopgithub/static/js/main.9cf584ac.js",
+    "index.html": "/bookshopgithub/index.html",
+    "main.30dbb5ea.css.map": "/bookshopgithub/static/css/main.30dbb5ea.css.map",
+    "main.9cf584ac.js.map": "/bookshopgithub/static/js/main.9cf584ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30dbb5ea.css",
+    "static/js/main.9cf584ac.js"
+  ]
+}
