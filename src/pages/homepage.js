@@ -1,8 +1,8 @@
+// const images = require('../images', true)
 import React, { useContext } from 'react'
 import { Link } from 'react-router-dom'
 import { Context } from '../Context'
-// import { img3 } from '../images'
-// import * as images from '../images'
+import img from '../images/img3.jpg'
 
 import Image from '../component/Image'
 
@@ -21,7 +21,7 @@ function Homepage() {
   return (
     <div className='product-container '>
       <div className='product jumbo'>
-        <img src='images/img3.jpg' alt='bg' />
+        <img src={img} alt='bg' />
         <div className='info'>
           <h1> welcome to the Products page</h1>
           <div className='search-bar'>
