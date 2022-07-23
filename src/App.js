@@ -5,7 +5,6 @@ import Footer from './component/Footer'
 
 import Account from './pages/Account'
 import Contact from './pages/contact/Contact'
-import LoginForm from './pages/login/login'
 import Homepage from './pages/homepage'
 import Payment from './pages/Payment'
 import './App.css'
@@ -26,7 +25,6 @@ function App() {
           <Route exact path='/account' element={<Account />} />
           <Route exact path='/contact' element={<Contact />} />
           <Route exact path='/payment' element={<Payment />} />
-          <Route exact path='/login' element={<LoginForm />} />
         </Routes>
       </div>
       <Footer />

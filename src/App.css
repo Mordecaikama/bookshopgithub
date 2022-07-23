@@ -211,3 +211,19 @@ th {
   color: white;
   text-align: center;
 }
+
+/* product page  */
+
+.single-container {
+  width: 400px;
+  margin: auto;
+}
+
+.single-img {
+  width: 250px;
+}
+
+.single-img img {
+  width: 100%;
+  object-fit: cover;
+}

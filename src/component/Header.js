@@ -26,12 +26,7 @@ function Header() {
             <i className='far fa-shopping-cart'></i>{' '}
             <small className='cart-number'> {cartsize} </small>{' '}
           </Link>
-          /
-          <Link to='/login' className='rt'>
-            {' '}
-            Login{' '}
-          </Link>{' '}
-          /
+          / /
         </ul>
       </div>
     </div>
