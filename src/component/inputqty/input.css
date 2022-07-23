@@ -1,0 +1,40 @@
+.input{
+    /* max-width: 100px; */
+    display: flex;
+}
+
+.inputcomponent{
+    width: 50px;
+    outline: none;
+    /* border: none; */
+}
+
+
+.input input.inputcomponent::-webkit-outer-spin-button,
+input.inputcomponent::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  /* margin: 0; */
+  /* border-radius: 50%; */
+}
+
+.add,.sub{
+    background: #ebedeb;
+    border-radius: 50%;
+    color: black;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10px;
+    width: 10px;
+    transition: 1s;
+    font-size: 0.5em;
+}
+
+.add:active,.sub:active{
+    background: teal;
+    
+}
