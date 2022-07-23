@@ -1,7 +1,7 @@
 const data = [
   {
     id: 1,
-    url: '../images/img1.jpg',
+    url: 'images/img1.jpg',
     title: 'Bible',
     isfavorite: false,
     price: 1.8,
@@ -10,7 +10,7 @@ const data = [
   },
   {
     id: 2,
-    url: '../images/img2.jpg',
+    url: 'images/img2.jpg',
     title: 'flip book',
     price: 1.5,
     qty: 1,
@@ -18,7 +18,7 @@ const data = [
   },
   {
     id: 3,
-    url: '../images/img3.jpg',
+    url: 'images/img3.jpg',
     title: 'book on the shelf',
     isfavorite: false,
     price: 1.2,
@@ -27,7 +27,7 @@ const data = [
   },
   {
     id: 4,
-    url: '../images/img4.jpg',
+    url: 'images/img4.jpg',
     title: 'leisure time',
     isfavorite: false,
     price: 1.3,
@@ -36,7 +36,7 @@ const data = [
   },
   {
     id: 5,
-    url: '../images/img5.jpg',
+    url: 'images/img5.jpg',
     title: 'time with angels',
     isfavorite: false,
     price: 1.2,
@@ -45,7 +45,7 @@ const data = [
   },
   {
     id: 6,
-    url: '../images/img6.jpg',
+    url: 'images/img6.jpg',
     title: 'quiet time',
     isfavorite: false,
     price: 2.5,
@@ -54,7 +54,7 @@ const data = [
   },
   {
     id: 7,
-    url: '../images/img7.jpg',
+    url: 'images/img7.jpg',
     title: 'heap of books',
     isfavorite: false,
     price: 1.2,
@@ -63,7 +63,7 @@ const data = [
   },
   {
     id: 8,
-    url: '../images/img8.jpg',
+    url: 'images/img8.jpg',
     title: 'Library',
     isfavorite: false,
     price: 1.9,
