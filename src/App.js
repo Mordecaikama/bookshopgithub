@@ -18,15 +18,15 @@ function App() {
         welcome to the BookShop! DemoApp{' '}
       </h1>
       <Header />
-      <div className='main'>
-        <Routes>
-          <Route exact path='/' element={<Homepage />} />
-          <Route path='/product/:id' element={<Product />} />
-          <Route path='/account' element={<Account />} />
-          <Route path='/contact' element={<Contact />} />
-          <Route path='/payment' element={<Payment />} />
-        </Routes>
-      </div>
+      {/* <div className='main'> */}
+      <Routes>
+        <Route exact path='/' element={<Homepage />} />
+        <Route path='/account' element={<Account />} />
+        <Route path='/contact' element={<Contact />} />
+        <Route path='/payment' element={<Payment />} />
+        <Route path='/product/:id' element={<Product />} />
+      </Routes>
+      {/* </div> */}
       <Footer />
     </div>
   )
