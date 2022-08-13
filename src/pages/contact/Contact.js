@@ -7,6 +7,7 @@ function Contact() {
       <h1 className='brand'>
         <span>gh</span> Book Store
       </h1>
+      <p>This is just a template form, Does not submits to anywhere</p>
       <div className='wrapper animated bounceInLeft'>
         <div className='company-info'>
           <h3>Book Store</h3>
@@ -24,7 +25,7 @@ function Contact() {
         </div>
         <div className='contact'>
           <h3>Email Us</h3>
-          <form>
+          <form onSubmit={(e) => e.preventDefault()}>
             <p>
               <label>Name</label>
               <input type='text' name='name' />

@@ -9,7 +9,7 @@ function Product() {
   console.log(prod)
   return (
     <div>
-      <h1>Welcome to the Products page</h1>
+      <h1 style={{ textAlign: 'center' }}>Welcome to the Products page</h1>
       {prod &&
         prod.map((item, ind) => {
           return (
