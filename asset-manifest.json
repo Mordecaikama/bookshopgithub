@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookshopgithub/static/css/main.30dbb5ea.css",
-    "main.js": "/bookshopgithub/static/js/main.25b927b6.js",
+    "main.js": "/bookshopgithub/static/js/main.cf68875d.js",
     "static/media/img4.jpg": "/bookshopgithub/static/media/img4.45e9a6090aab47296ce1.jpg",
     "static/media/img3.jpg": "/bookshopgithub/static/media/img3.3f4420ece2be335d02ed.jpg",
     "static/media/img8.jpg": "/bookshopgithub/static/media/img8.34224fdd47a5af274322.jpg",
@@ -12,10 +12,10 @@
     "static/media/img5.jpg": "/bookshopgithub/static/media/img5.79c1f5412d6be3c711f0.jpg",
     "index.html": "/bookshopgithub/index.html",
     "main.30dbb5ea.css.map": "/bookshopgithub/static/css/main.30dbb5ea.css.map",
-    "main.25b927b6.js.map": "/bookshopgithub/static/js/main.25b927b6.js.map"
+    "main.cf68875d.js.map": "/bookshopgithub/static/js/main.cf68875d.js.map"
   },
   "entrypoints": [
     "static/css/main.30dbb5ea.css",
-    "static/js/main.25b927b6.js"
+    "static/js/main.cf68875d.js"
   ]
 }
