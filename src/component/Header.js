@@ -19,9 +19,9 @@ function Header() {
             {' '}
             <li> Product </li>{' '}
           </Link>{' '}
-          /<Link to='/account'> Account </Link> /
-          <Link to='/contact'> Contact </Link> /
-          <Link to='/payment' className='cart-head'>
+          /<Link to='/bookshopgithub/account'> Account </Link> /
+          <Link to='/bookshopgithub/contact'> Contact </Link> /
+          <Link to='/bookshopgithub/payment' className='cart-head'>
             {' '}
             <i className='far fa-shopping-cart'></i>{' '}
             <small className='cart-number'> {cartsize} </small>{' '}

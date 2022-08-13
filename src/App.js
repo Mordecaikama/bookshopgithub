@@ -20,7 +20,7 @@ function App() {
       <Header />
       {/* <div className='main'> */}
       <Routes>
-        <Route exact path='/bookshopgithub' element={<Homepage />} />
+        <Route exact path='/' element={<Homepage />} />
         <Route path='/bookshopgithub/account' element={<Account />} />
         <Route path='/bookshopgithub/contact' element={<Contact />} />
         <Route path='/bookshopgithub/payment' element={<Payment />} />
