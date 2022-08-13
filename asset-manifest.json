@@ -1,14 +1,21 @@
 {
   "files": {
-    "main.css": "/bookshopgithub/static/css/main.30dbb5ea.css",
-    "main.js": "/bookshopgithub/static/js/main.c37a6b58.js",
-    "static/media/img3.jpg": "/bookshopgithub/static/media/img3.3f4420ece2be335d02ed.jpg",
-    "index.html": "/bookshopgithub/index.html",
-    "main.30dbb5ea.css.map": "/bookshopgithub/static/css/main.30dbb5ea.css.map",
-    "main.c37a6b58.js.map": "/bookshopgithub/static/js/main.c37a6b58.js.map"
+    "main.css": "/static/css/main.30dbb5ea.css",
+    "main.js": "/static/js/main.ec8116ca.js",
+    "static/media/img4.jpg": "/static/media/img4.45e9a6090aab47296ce1.jpg",
+    "static/media/img3.jpg": "/static/media/img3.3f4420ece2be335d02ed.jpg",
+    "static/media/img8.jpg": "/static/media/img8.34224fdd47a5af274322.jpg",
+    "static/media/img1.jpg": "/static/media/img1.555a9420ea166eea399a.jpg",
+    "static/media/img6.jpg": "/static/media/img6.b2b8d37e581c7c4cfa91.jpg",
+    "static/media/img2.jpg": "/static/media/img2.b031aa2a8db4e3dfcf30.jpg",
+    "static/media/img7.jpg": "/static/media/img7.5c3ed4969ecbc5e3ad6c.jpg",
+    "static/media/img5.jpg": "/static/media/img5.79c1f5412d6be3c711f0.jpg",
+    "index.html": "/index.html",
+    "main.30dbb5ea.css.map": "/static/css/main.30dbb5ea.css.map",
+    "main.ec8116ca.js.map": "/static/js/main.ec8116ca.js.map"
   },
   "entrypoints": [
     "static/css/main.30dbb5ea.css",
-    "static/js/main.c37a6b58.js"
+    "static/js/main.ec8116ca.js"
   ]
 }
