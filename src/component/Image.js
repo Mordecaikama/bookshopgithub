@@ -51,7 +51,7 @@ function Image({ mydata }) {
       <img src={mydata.url} />
       {ans()}
       {cartIcon()}
-      <Link to={`/bookshopgithub/product/${mydata.id}`}>
+      <Link to={`/product/${mydata.id}`}>
         <h3 id='text'>{mydata.title}</h3>
       </Link>
     </div>

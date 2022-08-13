@@ -20,11 +20,11 @@ function App() {
       <Header />
       {/* <div className='main'> */}
       <Routes>
-        <Route exact path='/' element={<Homepage />} />
-        <Route path='/bookshopgithub/account' element={<Account />} />
-        <Route path='/bookshopgithub/contact' element={<Contact />} />
-        <Route path='/bookshopgithub/payment' element={<Payment />} />
-        <Route path='/bookshopgithub/product/:id' element={<Product />} />
+        <Route exact path='/bookshopgithub' element={<Homepage />} />
+        <Route path='/account' element={<Account />} />
+        <Route path='/contact' element={<Contact />} />
+        <Route path='/payment' element={<Payment />} />
+        <Route path='/product/:id' element={<Product />} />
       </Routes>
       {/* </div> */}
       <Footer />
