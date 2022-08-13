@@ -15,7 +15,7 @@ function Header() {
 
       <div className='nav '>
         <ul>
-          <Link to='/'>
+          <Link to='/bookshopgithub'>
             {' '}
             <li> Product </li>{' '}
           </Link>{' '}
